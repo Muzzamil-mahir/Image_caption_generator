@@ -12,4 +12,4 @@ Then get all the requirments by executing the below command.<br>
 ``` pip install -r requirements.txt ```
 
 # References
-For more info about [SalesForce BLIP] (https://github.com/salesforce/BLIP).
+For more info about [SalesForce BLIP](https://github.com/salesforce/BLIP).
