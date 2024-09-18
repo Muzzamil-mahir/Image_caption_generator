@@ -11,5 +11,8 @@ Then get all the requirments by executing the below command.<br>
 
 ``` pip install -r requirements.txt ```
 
+Then run **model_api.py**.<br>
+Once the api server is up and running you can launch the frontend.
+
 # References
 For more info about [SalesForce BLIP](https://github.com/salesforce/BLIP).
